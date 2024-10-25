@@ -5,7 +5,7 @@
 
 
 
--🔗 [Demo Project](https://helia-rz79.github.io/project1/)
+-🔗 [Demo Project](https://helia-rz79.github.io/pet/)
 
 -🙍 Developed by helia rezaie
 
