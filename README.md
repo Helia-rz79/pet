@@ -1,5 +1,4 @@
 # pet
-**😊If you have a lot of information to display on your site, why don't you use my accordion menu**
 
 ![6](https://github.com/user-attachments/assets/27eab9eb-bbf0-4fbe-992a-531a28302b82)
 
